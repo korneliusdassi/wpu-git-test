@@ -1,2 +1,2 @@
-# wpu-git-test
+# lius-git-test
 repo untuk mencoba git remote
